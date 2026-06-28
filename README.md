@@ -6,15 +6,4 @@ A collection of Data Structures and Algorithms problem solutions from various co
 
 ### String Problems
 1. **Reverse Words** - [GeeksforGeeks]
-   - Time Complexity: O(n)
-   - Space Complexity: O(1)
-   - File: `test1.java`
-
-## Platforms
-- GeeksforGeeks
-
-## Languages Used
-- Java
-
----
-*Keep practicing and happy coding!* 🚀
+   - Link:https://www.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1
