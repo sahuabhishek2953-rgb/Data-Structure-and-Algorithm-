@@ -12,3 +12,8 @@ A collection of Data Structures and Algorithms problem solutions from various co
 
 3. **Most Frequent Character** --[GfG]
    -Link:https://www.geeksforgeeks.org/problems/maximum-occuring-character-1587115620/1
+
+### Arrays Problems
+1. ** Two Sum** -[Leetcode]
+    -Link:https://leetcode.com/problems/two-sum/
+    
