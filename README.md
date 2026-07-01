@@ -14,6 +14,8 @@ A collection of Data Structures and Algorithms problem solutions from various co
    -Link:https://www.geeksforgeeks.org/problems/maximum-occuring-character-1587115620/1
 
 ### Arrays Problems
-1. ** Two Sum** -[Leetcode]
+1. **Two Sum** -[Leetcode]
     -Link:https://leetcode.com/problems/two-sum/
-    
+2. **Two Sum in Sorted Array** -[gfg]
+    -Link:https://www.geeksforgeeks.org/problems/two-sum-in-sorted-array/1
+     
