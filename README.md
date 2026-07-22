@@ -19,3 +19,14 @@ A collection of Data Structures and Algorithms problem solutions from various co
 2. **Two Sum in Sorted Array** -[gfg]
     -Link:https://www.geeksforgeeks.org/problems/two-sum-in-sorted-array/1
      
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/0069-sqrtx) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/0069-sqrtx) |
+<!---LeetCode Topics End-->
