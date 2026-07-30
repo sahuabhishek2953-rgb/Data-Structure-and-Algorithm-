@@ -24,6 +24,7 @@ A collection of Data Structures and Algorithms problem solutions from various co
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/0069-sqrtx) |
 | [0633-sum-of-square-numbers](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/0633-sum-of-square-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/3536-maximum-product-of-two-digits) |
@@ -40,4 +41,8 @@ A collection of Data Structures and Algorithms problem solutions from various co
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/0633-sum-of-square-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
