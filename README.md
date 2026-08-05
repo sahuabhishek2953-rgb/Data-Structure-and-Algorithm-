@@ -45,4 +45,16 @@ A collection of Data Structures and Algorithms problem solutions from various co
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/0050-powx-n) |
+## Depth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/3310-remove-methods-from-project) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/3310-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
