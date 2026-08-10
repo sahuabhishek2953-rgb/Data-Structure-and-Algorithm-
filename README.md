@@ -27,6 +27,7 @@ A collection of Data Structures and Algorithms problem solutions from various co
 | [0050-powx-n](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/0069-sqrtx) |
 | [0633-sum-of-square-numbers](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/0633-sum-of-square-numbers) |
+| [1510-stone-game-iv](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/1510-stone-game-iv) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search
@@ -62,4 +63,28 @@ A collection of Data Structures and Algorithms problem solutions from various co
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/3345-smallest-divisible-digit-product-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/1510-stone-game-iv) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/1510-stone-game-iv) |
+## Game Theory
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
