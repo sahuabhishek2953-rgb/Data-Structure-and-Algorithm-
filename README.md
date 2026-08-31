@@ -88,4 +88,8 @@ A collection of Data Structures and Algorithms problem solutions from various co
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/1510-stone-game-iv) |
+## Linked List
+|  |
+| ------- |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 <!---LeetCode Topics End-->
