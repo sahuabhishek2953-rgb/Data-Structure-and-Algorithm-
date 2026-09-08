@@ -31,6 +31,7 @@ A collection of Data Structures and Algorithms problem solutions from various co
 | [3345-smallest-divisible-digit-product-i](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3870-count-commas-in-range](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/3870-count-commas-in-range) |
 ## Binary Search
 |  |
 | ------- |
