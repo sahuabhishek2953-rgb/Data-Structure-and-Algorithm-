@@ -27,6 +27,7 @@ A collection of Data Structures and Algorithms problem solutions from various co
 | [0050-powx-n](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/0069-sqrtx) |
 | [0633-sum-of-square-numbers](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/0633-sum-of-square-numbers) |
+| [0836-rectangle-overlap](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/0836-rectangle-overlap) |
 | [1510-stone-game-iv](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/1510-stone-game-iv) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/3536-maximum-product-of-two-digits) |
@@ -103,4 +104,8 @@ A collection of Data Structures and Algorithms problem solutions from various co
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
