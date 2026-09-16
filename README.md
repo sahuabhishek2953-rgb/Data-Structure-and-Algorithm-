@@ -29,6 +29,7 @@ A collection of Data Structures and Algorithms problem solutions from various co
 | [0633-sum-of-square-numbers](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/0836-rectangle-overlap) |
 | [1510-stone-game-iv](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/1510-stone-game-iv) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -72,6 +73,7 @@ A collection of Data Structures and Algorithms problem solutions from various co
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/1510-stone-game-iv) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Minimax
 |  |
 | ------- |
@@ -108,4 +110,12 @@ A collection of Data Structures and Algorithms problem solutions from various co
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/0836-rectangle-overlap) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Prefix Sum
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
