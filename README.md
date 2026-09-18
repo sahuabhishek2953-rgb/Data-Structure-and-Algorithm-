@@ -47,6 +47,7 @@ A collection of Data Structures and Algorithms problem solutions from various co
 ## Two Pointers
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0633-sum-of-square-numbers](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/0633-sum-of-square-numbers) |
 ## Recursion
 |  |
@@ -97,6 +98,7 @@ A collection of Data Structures and Algorithms problem solutions from various co
 ## Linked List
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/0160-intersection-of-two-linked-lists) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Tree
 |  |
@@ -118,4 +120,8 @@ A collection of Data Structures and Algorithms problem solutions from various co
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Hash Table
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
