@@ -43,11 +43,13 @@ A collection of Data Structures and Algorithms problem solutions from various co
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/0148-sort-list) |
 | [3536-maximum-product-of-two-digits](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0633-sum-of-square-numbers](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/0633-sum-of-square-numbers) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -102,6 +104,7 @@ A collection of Data Structures and Algorithms problem solutions from various co
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/0160-intersection-of-two-linked-lists) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -135,4 +138,12 @@ A collection of Data Structures and Algorithms problem solutions from various co
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/0141-linked-list-cycle) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
