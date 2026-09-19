@@ -56,6 +56,7 @@ A collection of Data Structures and Algorithms problem solutions from various co
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/0050-powx-n) |
 ## Depth-First Search
 |  |
@@ -102,6 +103,7 @@ A collection of Data Structures and Algorithms problem solutions from various co
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/0021-merge-two-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/0148-sort-list) |
