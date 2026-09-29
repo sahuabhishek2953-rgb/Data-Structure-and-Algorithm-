@@ -15,8 +15,8 @@ class Solution {
             if(temp.next.val==temp.val){
                 temp.next=temp.next.next;
             }
-            if(temp.next==null) break;
-            if(temp.next.val!=temp.val){
+            
+            else if(temp.next.val!=temp.val){
                 temp=temp.next;
 
             }
