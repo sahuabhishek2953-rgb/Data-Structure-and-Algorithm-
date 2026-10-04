@@ -1,55 +1,40 @@
-/*
-// Definition for a Node.
-class Node {
-    int val;
-    Node next;
-    Node random;
-
-    public Node(int val) {
-        this.val = val;
-        this.next = null;
-        this.random = null;
-    }
-    
-}
-*/
-
 class Solution {
     public Node copyRandomList(Node head) {
         if (head == null) return null;
 
-        Node curr = head;
+        Node temp1 = head;
 
-        while (curr != null) {
-            Node copy = new Node(curr.val);
-            copy.next = curr.next;
-            curr.next = copy;
-            curr = copy.next;
+        while (temp1 != null) {
+            Node newNode = new Node(temp1.val);
+            newNode.next = temp1.next;
+            temp1.next = newNode;
+            temp1 = newNode.next;
         }
 
-        curr = head;
+        temp1 = head;
 
-        while (curr != null) {
-            if (curr.random != null) {
-                curr.next.random = curr.random.next;
+        while (temp1 != null) {
+            if (temp1.random != null) {
+                temp1.next.random = temp1.random.next;
             }
-            curr = curr.next.next;
+            temp1 = temp1.next.next;
         }
 
-        curr = head;
-        Node copyHead = head.next;
+        Node head2 = head.next;
+        temp1 = head;
+        Node temp2 = head2;
 
-        while (curr != null) {
-            Node copy = curr.next;
-            curr.next = copy.next;
+        while (temp1 != null) {
+            temp1.next = temp1.next.next;
 
-            if (copy.next != null) {
-                copy.next = copy.next.next;
+            if (temp2.next != null) {
+                temp2.next = temp2.next.next;
             }
 
-            curr = curr.next;
+            temp1 = temp1.next;
+            temp2 = temp2.next;
         }
 
-        return copyHead;
+        return head2;
     }
 }
