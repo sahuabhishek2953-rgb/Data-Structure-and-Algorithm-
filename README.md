@@ -65,6 +65,7 @@ A collection of Data Structures and Algorithms problem solutions from various co
 ## Depth-First Search
 |  |
 | ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -116,6 +117,7 @@ A collection of Data Structures and Algorithms problem solutions from various co
 | [0160-intersection-of-two-linked-lists](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/0328-odd-even-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -163,4 +165,8 @@ A collection of Data Structures and Algorithms problem solutions from various co
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/0234-palindrome-linked-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
