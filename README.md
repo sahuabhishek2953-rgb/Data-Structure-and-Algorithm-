@@ -169,4 +169,8 @@ A collection of Data Structures and Algorithms problem solutions from various co
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/sahuabhishek2953-rgb/Data-Structure-and-Algorithm-/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
